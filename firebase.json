@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "first-c202b",
+    "public": "docs",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
